@@ -6,3 +6,5 @@ Ejemplos en [GeoGebra](https://www.geogebra.org) de construcciones de puntos com
 
 - [Cálculo de raíces cúbicas](Geogebra/raiz-cubica.html)
 - [Trisección de un ángulo](Geogebra/triseccion-angulo.html)
+- Construción de un [pentágono regular](Geogebra/pentagono.html)
+- Construción de un [heptágono regular](Geogebra/heptagono.html)
