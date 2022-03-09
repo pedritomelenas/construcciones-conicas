@@ -5,3 +5,4 @@ Este repositorio contiene ejemplos creados por Eloy Revilla Martín para su trab
 Ejemplos en [GeoGebra](https://www.geogebra.org) de construcciones de puntos como intersección de cónicas
 
 - [Cálculo de raíces cúbicas](Geogebra/raiz-cubica.html)
+- [Trisección de un ángulo](Geogebra/triseccion-angulo.html)
