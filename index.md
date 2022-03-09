@@ -8,3 +8,4 @@ Ejemplos en [GeoGebra](https://www.geogebra.org) de construcciones de puntos com
 - [Trisección de un ángulo](Geogebra/triseccion-angulo.html)
 - Construción de un [pentágono regular](Geogebra/pentagono.html)
 - Construción de un [heptágono regular](Geogebra/heptagono.html)
+- Construción de un [noneágono regular](Geogebra/noneagono.html)
