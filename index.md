@@ -10,3 +10,4 @@ Ejemplos en [GeoGebra](https://www.geogebra.org) de construcciones de puntos com
 - Construción de un [heptágono regular](Geogebra/heptagono.html)
 - Construción de un [noneágono regular](Geogebra/noneagono.html)
 - Construcción de [Carlyle](Geogebra/carlyle.html) para resolver ecuaciones de grado dos
+- Intersecando una [hipérbola y una parábola](Geogebra/ec-cubicas-1.html) para resolver ecuaciones de grado tres
