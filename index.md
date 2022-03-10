@@ -12,3 +12,4 @@ Ejemplos en [GeoGebra](https://www.geogebra.org) de construcciones de puntos com
 - Construcción de [Carlyle](Geogebra/carlyle.html) para resolver ecuaciones de grado dos
 - Intersecando una [hipérbola fija y una parábola](Geogebra/ec-cubicas-1.html) para resolver ecuaciones de grado tres
 - Intersecando una [hipérbola y una parábola fija](Geogebra/ec-cubicas-2.html) para resolver ecuaciones de grado tres
+- Cortando una esfera por un plano en una proporción dada, [Arquímedes](Geogebra/arquimedes.html)
